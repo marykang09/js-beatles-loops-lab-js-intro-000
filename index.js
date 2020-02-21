@@ -8,15 +8,30 @@ for (let i = 0; i<4; i +=1){
 return array;
 }
 
+<<<<<<< HEAD
 function johnLennonFacts(facts){
   var array = [];
   var i = 0;
   while (i<facts.length) {
     array.push (`${facts[i]}!!!`);
+=======
+function johnLennonFacts(){
+  var array = [];
+  const facts = [
+  "He was the last Beatle to learn to drive",
+  "He was never a vegetarian",
+  "He was a choir boy and boy scout",
+  "He hated the sound of his own voice"
+  ];
+  let i = 0;
+  while (i<4) {
+    array.push (`${facts[i]} !!!`);
+>>>>>>> d84b9aeb1ce40ad75b376a85640564f40f9ac235
     i++;
   }
   return array;
 }
+<<<<<<< HEAD
 
 function iLoveTheBeatles(num){
 var array = [];
@@ -26,3 +41,5 @@ num++;
 } while (num<15);
 return array;
 }
+=======
+>>>>>>> d84b9aeb1ce40ad75b376a85640564f40f9ac235
