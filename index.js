@@ -26,7 +26,6 @@ function johnLennonFacts(){
   let i = 0;
   while (i<4) {
     array.push (`${facts[i]} !!!`);
->>>>>>> d84b9aeb1ce40ad75b376a85640564f40f9ac235
     i++;
   }
   return array;
