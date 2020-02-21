@@ -40,5 +40,3 @@ num++;
 } while (num<15);
 return array;
 }
-=======
->>>>>>> d84b9aeb1ce40ad75b376a85640564f40f9ac235
