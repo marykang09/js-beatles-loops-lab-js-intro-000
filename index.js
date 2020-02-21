@@ -30,7 +30,7 @@ function johnLennonFacts(){
   }
   return array;
 }
-<<<<<<< HEAD
+
 
 function iLoveTheBeatles(num){
 var array = [];
